@@ -19,6 +19,7 @@ namespace _5._3._9.Djelitelj
               if (a % i == 0)
                 {
                     Console.Write("{0}, ", i);
+
                 }
 
             }
