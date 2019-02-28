@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.9.Djelitelj", "5.3.9.Dj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vreliste_lediste_vode2", "vreliste_lediste_vode2\vreliste_lediste_vode2.csproj", "{53F59C34-6207-48B8-8657-1602445D98D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1.1_zbroj_i_razlika(1)", "5.1.1_zbroj_i_razlika(1)\5.1.1_zbroj_i_razlika(1).csproj", "{CA186594-7D99-4DC4-9829-8F3BFC6A3E57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,10 @@ Global
 		{53F59C34-6207-48B8-8657-1602445D98D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F59C34-6207-48B8-8657-1602445D98D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F59C34-6207-48B8-8657-1602445D98D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA186594-7D99-4DC4-9829-8F3BFC6A3E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA186594-7D99-4DC4-9829-8F3BFC6A3E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA186594-7D99-4DC4-9829-8F3BFC6A3E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA186594-7D99-4DC4-9829-8F3BFC6A3E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
