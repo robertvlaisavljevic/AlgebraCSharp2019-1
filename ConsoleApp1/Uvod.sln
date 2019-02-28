@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulator", "kalkulator\ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veliki broj", "veliki broj\veliki broj.csproj", "{7A5B8403-E72C-46C6-A0B1-7DADFC1645A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "x-znamenkasti broj2", "x-znamenkasti broj2\x-znamenkasti broj2.csproj", "{38160E35-6E3E-4301-9EA2-89176B9AAFB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{7A5B8403-E72C-46C6-A0B1-7DADFC1645A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A5B8403-E72C-46C6-A0B1-7DADFC1645A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A5B8403-E72C-46C6-A0B1-7DADFC1645A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38160E35-6E3E-4301-9EA2-89176B9AAFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38160E35-6E3E-4301-9EA2-89176B9AAFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38160E35-6E3E-4301-9EA2-89176B9AAFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38160E35-6E3E-4301-9EA2-89176B9AAFB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
