@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u intervalu", "u intervalu\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try catch", "try catch\try catch.csproj", "{35CA4159-BDAB-4815-8E2C-C7629DD10140}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dobar broj 1=", "dobar broj 1=\dobar broj 1=.csproj", "{48E631A2-5567-47FE-8165-B74C3B1AE235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{35CA4159-BDAB-4815-8E2C-C7629DD10140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CA4159-BDAB-4815-8E2C-C7629DD10140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CA4159-BDAB-4815-8E2C-C7629DD10140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E631A2-5567-47FE-8165-B74C3B1AE235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E631A2-5567-47FE-8165-B74C3B1AE235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E631A2-5567-47FE-8165-B74C3B1AE235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E631A2-5567-47FE-8165-B74C3B1AE235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
