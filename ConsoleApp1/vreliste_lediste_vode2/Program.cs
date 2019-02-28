@@ -13,6 +13,13 @@ namespace vreliste_lediste_vode2
             //proba
             Console.WriteLine("vreliste vode je 100 stupnjeva");
             Console.WriteLine("lediste vode je 0 stupnjeva");
+
+            int vreliste = 100;
+            int lediste = 0;
+
+            Console.WriteLine("vreliste vode je {0} stupnjeva", vreliste);
+            Console.WriteLine("lediste vode je {0} stupnjeva", lediste);
+
             Console.ReadKey();
         }
     }
