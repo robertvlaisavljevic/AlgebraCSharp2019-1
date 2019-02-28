@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.7_ispis", "5.3.7_ispis\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.9.Djelitelj", "5.3.9.Djelitelj\5.3.9.Djelitelj.csproj", "{167A2D6F-94BC-4A3B-A9BB-B61C2DEC2712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vreliste_lediste_vode2", "vreliste_lediste_vode2\vreliste_lediste_vode2.csproj", "{53F59C34-6207-48B8-8657-1602445D98D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{167A2D6F-94BC-4A3B-A9BB-B61C2DEC2712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{167A2D6F-94BC-4A3B-A9BB-B61C2DEC2712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{167A2D6F-94BC-4A3B-A9BB-B61C2DEC2712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F59C34-6207-48B8-8657-1602445D98D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F59C34-6207-48B8-8657-1602445D98D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F59C34-6207-48B8-8657-1602445D98D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F59C34-6207-48B8-8657-1602445D98D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
