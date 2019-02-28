@@ -10,13 +10,18 @@ namespace umnozak_kvocijent2
     {
         static void Main(string[] args)
         {
-            int a = 0, b = 0;
-            
+
             Console.WriteLine("Unesite prvi broj: ");
+            
+
+            int a = 0, b = 0;
+
             a=int.Parse(Console.ReadLine());
 
+
             Console.WriteLine("Unesite drugi broj: ");
-            b=int.Parse(Console.ReadLine());
+            b =int.Parse(Console.ReadLine());
+            
 
             //uvijek prvo decimal pa int
             Console.WriteLine("Umnozak ovih brojeva je: {0}", a*b);
