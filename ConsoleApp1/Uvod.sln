@@ -75,6 +75,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ciklicke_petlje_2", "ciklic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "priestupna godina 2", "priestupna godina 2\priestupna godina 2.csproj", "{8067BB9B-D935-4605-B961-AA0904109EB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cijelobrojno dijeljenje 2", "cijelobrojno dijeljenje 2\cijelobrojno dijeljenje 2.csproj", "{B4CA9218-7D57-4A32-9A3F-BC04268B7313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{8067BB9B-D935-4605-B961-AA0904109EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8067BB9B-D935-4605-B961-AA0904109EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8067BB9B-D935-4605-B961-AA0904109EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CA9218-7D57-4A32-9A3F-BC04268B7313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CA9218-7D57-4A32-9A3F-BC04268B7313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CA9218-7D57-4A32-9A3F-BC04268B7313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CA9218-7D57-4A32-9A3F-BC04268B7313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
