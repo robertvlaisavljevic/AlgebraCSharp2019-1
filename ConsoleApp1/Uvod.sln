@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neparni do 20", "neparni do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "djeljiv sa 5", "djeljiv sa 5\djeljiv sa 5.csproj", "{42C22166-BB27-4CEF-BA21-AB2A5E44741D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suma100", "suma100\suma100.csproj", "{96B5E069-0752-4607-9275-79C47B6A155E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +231,10 @@ Global
 		{42C22166-BB27-4CEF-BA21-AB2A5E44741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C22166-BB27-4CEF-BA21-AB2A5E44741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C22166-BB27-4CEF-BA21-AB2A5E44741D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B5E069-0752-4607-9275-79C47B6A155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B5E069-0752-4607-9275-79C47B6A155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B5E069-0752-4607-9275-79C47B6A155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B5E069-0752-4607-9275-79C47B6A155E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -252,6 +258,7 @@ Global
 		{8067BB9B-D935-4605-B961-AA0904109EB6} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
 		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 		{42C22166-BB27-4CEF-BA21-AB2A5E44741D} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
+		{96B5E069-0752-4607-9275-79C47B6A155E} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
