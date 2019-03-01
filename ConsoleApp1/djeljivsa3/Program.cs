@@ -22,7 +22,7 @@ namespace djeljivsa3
 
                 for (int i = 1; i <= 100; i ++)
                 {
-                    if (i%3==00)
+                    if (i%3==0)
                     {
                         Console.Write("{0} ", i);
                     }
