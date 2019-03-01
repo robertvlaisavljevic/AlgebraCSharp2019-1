@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cijelobrojno dijeljenje 2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjezba sa try", "vjezba sa try\vjezba sa try.csproj", "{7C410416-AADA-44CC-B73C-E1651AE25B72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neparni do 20", "neparni do 20\neparni do 20.csproj", "{95D1AF0D-5C54-46D3-8FDC-18F505A5836E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{7C410416-AADA-44CC-B73C-E1651AE25B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C410416-AADA-44CC-B73C-E1651AE25B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C410416-AADA-44CC-B73C-E1651AE25B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -238,6 +244,7 @@ Global
 		{4E161358-FDB6-496C-80DA-FA3FFE0BB74A} = {5E3AC01F-93EA-4702-BF22-554CCD586169}
 		{220BBFE6-D2FD-4B78-AA42-33D812A02EE5} = {5E3AC01F-93EA-4702-BF22-554CCD586169}
 		{8067BB9B-D935-4605-B961-AA0904109EB6} = {19D29F78-F7F0-4D00-8791-9EDF91AE03A6}
+		{95D1AF0D-5C54-46D3-8FDC-18F505A5836E} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
