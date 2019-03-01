@@ -15,6 +15,13 @@ namespace neparni_do_20
             {
               Console.Write("{0 }  ", i);
             }
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Neparni brojevi od 20 do 3 su: ");
+            for (int a = 19; a >=3; a -= 2)
+            {
+                Console.Write("{0 }  ", a);
+            }
             Console.ReadKey();
         }
     }
