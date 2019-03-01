@@ -22,22 +22,7 @@ namespace kolikokoliko
                 }
                 
             }
-            {
-                //kako napraviti sumu
-            Console.WriteLine("\n\nUkupno ih je: \n");
-            int suma=0;
             
-                for (int b = 0; b <= 1000; b++)
-                {
-                    if (b%7==0 && !(b%3==0))
-                    {
-                        suma++;
-                    }
-                    Console.WriteLine("{0} ", suma);
-
-                }
-
-            }
             { 
             Console.WriteLine("\n\nBrojevi koji nisu djeljivi sa 3 su:\n ");
                 for (int a = 1; a < 1000; a++)
@@ -49,8 +34,12 @@ namespace kolikokoliko
                 }
                 
             }
-            Console.ReadKey();
+            
+                Console.ReadKey();
 
+            
         }
     }
 }
+
+
