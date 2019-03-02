@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokusaj", "pokusaj\pokusaj.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablica mnozenja", "tablica mnozenja\tablica mnozenja.csproj", "{655119C6-66CC-4723-8041-AD7386DA9B76}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.3.8-5.3.22 parni", "5.3.8-5.3.22 parni", "{61035C61-DA60-41F2-BA2E-7132FC6FBF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.8 7-3 Koliko", "5.3.8 7-3 Koliko\5.3.8 7-3 Koliko.csproj", "{B1E73E1C-4978-4D11-8408-9E9B9F7BD795}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +311,10 @@ Global
 		{655119C6-66CC-4723-8041-AD7386DA9B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{655119C6-66CC-4723-8041-AD7386DA9B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{655119C6-66CC-4723-8041-AD7386DA9B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E73E1C-4978-4D11-8408-9E9B9F7BD795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E73E1C-4978-4D11-8408-9E9B9F7BD795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E73E1C-4978-4D11-8408-9E9B9F7BD795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E73E1C-4978-4D11-8408-9E9B9F7BD795}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -343,6 +351,7 @@ Global
 		{4ADBF9A3-5734-49FB-9065-1588D977875B} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 		{BCDFD907-18CC-4B4D-A05D-05091631664A} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 		{655119C6-66CC-4723-8041-AD7386DA9B76} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
+		{B1E73E1C-4978-4D11-8408-9E9B9F7BD795} = {61035C61-DA60-41F2-BA2E-7132FC6FBF24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
