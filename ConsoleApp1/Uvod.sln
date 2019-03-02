@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.14 Neparni brojevi", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.16 Potencije 1", "5.3.16 Potencije 1\5.3.16 Potencije 1.csproj", "{839D3B45-2527-4FD4-ADF0-0F9DD16DA906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3.18 Unos ocjene", "5.3.18 Unos ocjene\5.3.18 Unos ocjene.csproj", "{00329570-BA1A-43FE-9A0E-77090325547F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{839D3B45-2527-4FD4-ADF0-0F9DD16DA906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{839D3B45-2527-4FD4-ADF0-0F9DD16DA906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{839D3B45-2527-4FD4-ADF0-0F9DD16DA906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00329570-BA1A-43FE-9A0E-77090325547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00329570-BA1A-43FE-9A0E-77090325547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00329570-BA1A-43FE-9A0E-77090325547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00329570-BA1A-43FE-9A0E-77090325547F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -373,6 +379,7 @@ Global
 		{5F454DFE-8A80-4ADB-8415-42F2C76C1B5D} = {61035C61-DA60-41F2-BA2E-7132FC6FBF24}
 		{39500089-7CDD-447C-BCDF-7119F91EF6C3} = {61035C61-DA60-41F2-BA2E-7132FC6FBF24}
 		{839D3B45-2527-4FD4-ADF0-0F9DD16DA906} = {61035C61-DA60-41F2-BA2E-7132FC6FBF24}
+		{00329570-BA1A-43FE-9A0E-77090325547F} = {61035C61-DA60-41F2-BA2E-7132FC6FBF24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
