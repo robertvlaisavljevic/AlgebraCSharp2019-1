@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suma i prosjek zadaci", "su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokusaj", "pokusaj\pokusaj.csproj", "{BCDFD907-18CC-4B4D-A05D-05091631664A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablica mnozenja", "tablica mnozenja\tablica mnozenja.csproj", "{655119C6-66CC-4723-8041-AD7386DA9B76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +303,10 @@ Global
 		{BCDFD907-18CC-4B4D-A05D-05091631664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDFD907-18CC-4B4D-A05D-05091631664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCDFD907-18CC-4B4D-A05D-05091631664A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655119C6-66CC-4723-8041-AD7386DA9B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655119C6-66CC-4723-8041-AD7386DA9B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655119C6-66CC-4723-8041-AD7386DA9B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655119C6-66CC-4723-8041-AD7386DA9B76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -336,6 +342,7 @@ Global
 		{3AAC8DF4-DC99-43F6-8904-C460EDED4FCE} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 		{4ADBF9A3-5734-49FB-9065-1588D977875B} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 		{BCDFD907-18CC-4B4D-A05D-05091631664A} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
+		{655119C6-66CC-4723-8041-AD7386DA9B76} = {89AF5398-C2F6-45F8-A4D6-270E28B74B33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
