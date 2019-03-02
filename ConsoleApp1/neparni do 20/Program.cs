@@ -31,6 +31,16 @@ namespace neparni_do_20
                 Console.Write("{0 }  ", a);
 
             }
+            Console.WriteLine("\n\nParni brojevi od 20 do 3 su: ");
+            for (int a = 20; a >= 3; a -- )
+            {
+                if (a%2==0)
+                {
+                    Console.Write("{0 }  ", a);
+                }
+                
+
+            }
             Console.ReadKey();
         }
     }

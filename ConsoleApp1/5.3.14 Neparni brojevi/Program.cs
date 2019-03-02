@@ -13,9 +13,18 @@ namespace _5._3._14_Neparni_brojevi
             Console.Write("Neparni brojevi od 1 do 10 su: ");
             for (int i = 1; i <= 10; i+=2)
             {
-                Console.Write("\n{0} ", i);
+                Console.Write("{0} ", i);
             }
-            
+
+            Console.Write("\n\nNeparni brojevi od 1 do 10 su: ");
+            for (int i = 1; i <= 10; i += 2)
+            {
+                if (!(i%2==0))
+                {
+                    Console.Write("{0} ", i);
+                }
+                
+            }
             Console.ReadKey();
 
 
