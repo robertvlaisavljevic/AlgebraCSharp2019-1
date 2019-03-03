@@ -10,27 +10,25 @@ namespace KalkulatorP
     {
         static void Main(string[] args)
         {
-            try
-            {
-                float a = 0, b = 0;
-                string operacija = "";
-                string odgovor = "D";
+            
+             float a = 0, b = 0;
+             string operacija = "";
+             string odgovor = "D";
 
-                while (odgovor == "D" || odgovor == "d")
+             while (odgovor == "D" || odgovor == "d")
+             {
+                try
                 {
-
-                    Console.Write("upisite 1.broj: ");
+                    Console.Write("upisite 1. broj: ");
                     a = float.Parse(Console.ReadLine());
                     Console.Write("Upisite 2. broj: ");
                     b = float.Parse(Console.ReadLine());
-
 
                     Console.Write("Upisite racunsku operaciju; +,-,*,/ : ");
                     operacija = Console.ReadLine();
 
                     switch (operacija)
                     {
-
 
                         case "+":
                             Console.WriteLine("Zbroj iznosi: {0}", a + b);
@@ -52,16 +50,19 @@ namespace KalkulatorP
                             Console.WriteLine("Nepoznata racunska operacija!");
                             break;
                     }
-                    Console.WriteLine("Zelite li racunati ponovo:(D/N) ?");
-                    odgovor = Console.ReadLine();
-
+                    {
+                        Console.WriteLine("Zelite li racunati ponovo:(D/N) ?");
+                        odgovor = Console.ReadLine();
+                    }
                 }
-            }
-            catch (FormatException ex)
-            {
-                Console.Write("GRESKA!\nMorate upisati broj", ex.ToString());
+
+                catch (FormatException ex)
+                { 
+                    Console.Write("GRESKA!\nMorate upisati broj \n", ex.ToString());
                 
-            }
+                }
+             }
+            
 
             Console.ReadKey();
         }
