@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xznamenkasti brojP", "Xznam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suma prvih 100P", "suma prvih 100P\suma prvih 100P.csproj", "{D921DDDB-76B6-41CD-B5D9-2D5FBBDCB61C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktoijel", "Faktoijel\Faktoijel.csproj", "{31B5239A-310F-4221-B9B2-11264B61593C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -389,6 +391,10 @@ Global
 		{D921DDDB-76B6-41CD-B5D9-2D5FBBDCB61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D921DDDB-76B6-41CD-B5D9-2D5FBBDCB61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D921DDDB-76B6-41CD-B5D9-2D5FBBDCB61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5239A-310F-4221-B9B2-11264B61593C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5239A-310F-4221-B9B2-11264B61593C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5239A-310F-4221-B9B2-11264B61593C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5239A-310F-4221-B9B2-11264B61593C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -438,6 +444,7 @@ Global
 		{AE425C5D-915C-4FCB-8B23-5AD32FAE486E} = {FDDB4AEC-E3A9-447F-8753-EA59F451C73E}
 		{6F35ED1A-C285-4343-BB42-D131C74C6A3E} = {FDDB4AEC-E3A9-447F-8753-EA59F451C73E}
 		{D921DDDB-76B6-41CD-B5D9-2D5FBBDCB61C} = {FDDB4AEC-E3A9-447F-8753-EA59F451C73E}
+		{31B5239A-310F-4221-B9B2-11264B61593C} = {FDDB4AEC-E3A9-447F-8753-EA59F451C73E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
