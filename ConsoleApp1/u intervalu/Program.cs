@@ -19,7 +19,7 @@ namespace u_intervalu
             {
                 Console.WriteLine("broj je u intervalu ");
             }
-
+              
             else
             {
                 Console.WriteLine("broj nije u intervalu ");
