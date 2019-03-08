@@ -24,7 +24,7 @@ namespace _8._1._1_Prirucnik
             // ispis može
             Console.WriteLine("Njegovo ime je " + n1.Ime);
 
-            // OIB možemo postaviti.
+            // OIB možemo postaviti..
             n1.Oib = 123345;
 
             Nastavnik.Koeficijent();
