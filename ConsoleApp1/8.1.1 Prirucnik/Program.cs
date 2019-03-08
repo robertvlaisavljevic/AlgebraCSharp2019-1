@@ -21,7 +21,7 @@ namespace _8._1._1_Prirucnik
             // ne mozemo postaviti READ ONLY property
             // n1.Ime = "Claudije";
 
-            // ispis može
+            // ispis može.
             Console.WriteLine("Njegovo ime je " + n1.Ime);
 
             // OIB možemo postaviti..
