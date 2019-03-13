@@ -15,12 +15,27 @@ namespace _8._3._1_nasljedjivanje
             Ucenik uc2 = new Ucenik("Anica");    // Osoba()
             Ucenik uc3 = new Ucenik("perica","Perić");  //Osoba()
 
-
+            uc3.Prijaviispit(new Ispit("Engleski"));
+            // generic list
             List<Ucenik> ucenici = new List<Ucenik> { uc1, uc2, uc3 };
 
             foreach (var item in ucenici)
             {
                 Console.WriteLine(item);
+            }
+
+            // collection base lista (kao Arraylist)
+
+            Studenti studenti = new Studenti();
+            studenti.Add(uc1);
+            studenti.Add(uc2);
+            studenti.Add("Lara","Crofft");
+
+
+            Console.WriteLine("\nIspis klase studenti koja nasljedjuje collectionbase");
+            foreach (var item in studenti)
+            {
+                Console.WriteLine("\n ------>" + item.ToString());
             }
 
             // DODAJ vozače
