@@ -13,7 +13,7 @@ namespace _9._1._1_17
             
             string recenica = "Danas je suncan dan, zato vam Dobar dan!";
             string rijec = "dan";
-            char slovo = 'n';
+            char slovo = 'n'; 
             
 
             int brojac = 0;
