@@ -21,7 +21,7 @@ namespace _10._1._2_Primjer_2
              
             //file klasa
             Console.WriteLine(File.Exists(mojaPutanja));
-
+             
             //Directory klasa
             if (!Directory.Exists("Proba.txt"))
             {
