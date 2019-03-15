@@ -18,7 +18,7 @@ namespace _10._1._2_Primjer_2
              
             //Path klasa
             string mojaPutanja = Path.Combine(Environment.CurrentDirectory, "Proba.txt");
-
+             
             //file klasa
             Console.WriteLine(File.Exists(mojaPutanja));
 
