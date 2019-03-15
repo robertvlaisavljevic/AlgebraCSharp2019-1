@@ -21,7 +21,7 @@ namespace _10._1._1_Datoteke
             StreamWriter sw1 = new StreamWriter(fs1);
 
             sw1.WriteLine(upis);
-
+             
             sw1.Flush();
 
             sw1.Close();
