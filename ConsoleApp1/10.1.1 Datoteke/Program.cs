@@ -23,7 +23,7 @@ namespace _10._1._1_Datoteke
             sw1.WriteLine(upis);
              
             sw1.Flush();
-
+             
             sw1.Close();
             fs1.Close();
 
