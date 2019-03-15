@@ -15,7 +15,7 @@ namespace _10._1._2_Primjer_2
             Console.WriteLine(Environment.CurrentDirectory);
 
             Console.Write("Postoji li file Proba.txt u izvrsnoj mapi: ");
-
+             
             //Path klasa
             string mojaPutanja = Path.Combine(Environment.CurrentDirectory, "Proba.txt");
 
