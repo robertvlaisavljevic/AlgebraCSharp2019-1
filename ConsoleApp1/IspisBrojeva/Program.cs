@@ -11,6 +11,12 @@ namespace IspisBrojeva
         static void Main(string[] args)
         {
             //proba
+
+            Console.WriteLine("1 ");
+            Console.WriteLine("2 ");
+            Console.WriteLine("3 ");
+
+            Console.ReadKey();
         }
     }
 }

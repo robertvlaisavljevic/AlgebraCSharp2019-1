@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿namespace BusinessLayer
+=======
+﻿namespace _8._1._2_Automobil
+>>>>>>> 5aaecac3b02ef9522628931f10fd9ff44f09e710
 {
     public class Automobil
     {

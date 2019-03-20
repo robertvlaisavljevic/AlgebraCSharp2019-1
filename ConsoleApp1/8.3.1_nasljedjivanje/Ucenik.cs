@@ -9,7 +9,11 @@ namespace _8._3._1_nasljedjivanje
         public int ocjenaIzMatematike = 0;
         public int ocjenaIzEngleskog = 0;
         public int ocjenaIzBiologije = 0;
+<<<<<<< HEAD
         private Ispit prijavljeniIspit;
+=======
+        private Ispit prijavljeniispit;
+>>>>>>> 5aaecac3b02ef9522628931f10fd9ff44f09e710
 
         // ovaj radi samo kod dirktnog poziva:
         // Ucenik u99=new Ucenik();
@@ -30,10 +34,19 @@ namespace _8._3._1_nasljedjivanje
             this.prezime = prez;
         }
 
+<<<<<<< HEAD
         public void PrijaviIspit(Ispit ispit)
         {
             this.prijavljeniIspit = ispit;
             Console.WriteLine("Uspješno ste prijavili ispit " + this.prijavljeniIspit.Naziv);
+=======
+        public void Prijaviispit(Ispit ispit)
+        {
+            this.prijavljeniispit = ispit;
+            Console.WriteLine("Uspjesno ste prijavili ispit");
+
+            
+>>>>>>> 5aaecac3b02ef9522628931f10fd9ff44f09e710
         }
 
         public double Prosjek()

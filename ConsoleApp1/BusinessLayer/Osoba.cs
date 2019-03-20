@@ -1,7 +1,13 @@
 ﻿using System;
+<<<<<<< HEAD
 //using _8._1._2_Prirucnuik;
 
 namespace BusinessLayer
+=======
+using _8._1._2_Prirucnuik;
+
+namespace _8._3._1_nasljedjivanje
+>>>>>>> 5aaecac3b02ef9522628931f10fd9ff44f09e710
 {
     public abstract class Osoba
     {
