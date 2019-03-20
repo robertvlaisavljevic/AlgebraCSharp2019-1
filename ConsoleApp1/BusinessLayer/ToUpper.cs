@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+<<<<<<< HEAD
 namespace BusinessLayer
+=======
+namespace _8._1._2_Prirucnuik
+>>>>>>> 5aaecac3b02ef9522628931f10fd9ff44f09e710
 {
     public static class ToUpper
     {

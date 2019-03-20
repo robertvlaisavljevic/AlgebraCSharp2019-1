@@ -4,6 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{83D71946-9B44-46E2-821C-9A5C74517E71}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_7._2_potprogrami</RootNamespace>
@@ -12,6 +13,15 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+=======
+    <ProjectGuid>{4BAF3D5E-A657-4FE4-A29A-A8570FE38A4C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>_7._2_potprogrami</RootNamespace>
+    <AssemblyName>7.2_potprogrami</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+>>>>>>> f8982c13a76fe32d1d9881eaca9ee6cd922d9b53
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
